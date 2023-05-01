@@ -31,6 +31,8 @@ body {
   background-color: rgb(255 255 255);
 }
 
-img {
+.right-image {
+  height: 250px;
+  width: auto;
   float: right;
 }
